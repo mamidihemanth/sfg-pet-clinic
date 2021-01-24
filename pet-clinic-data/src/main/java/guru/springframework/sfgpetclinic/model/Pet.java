@@ -1,5 +1,7 @@
 package guru.springframework.sfgpetclinic.model;
 
+import guru.springframework.sfgpetclinic.model.Owner;
+
 import java.time.LocalDate;
 
 public class Pet {
